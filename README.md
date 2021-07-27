@@ -31,4 +31,4 @@ Send feature requests to erin@employma.org along with:
 
 ## Team
 
-[Erin DeSpain ](https://github.com/EchoCloud) |[de-spain.com](https://de-spain.com)
+[Erin DeSpain ](https://github.com/EchoCloud) | [de-spain.com](https://de-spain.com)
